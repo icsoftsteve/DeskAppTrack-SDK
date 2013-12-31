@@ -82,6 +82,25 @@ unique `KEY`.
     }
     
 So far, basic features integration process has finished.
+FAQ
+-------------------------------------------------
+
+Q: Wiil a user be recoginized as a new user if he has updated the app version?
+
+An old user will not be recognized as a new if he updates the app, but will be included as a new version user. Under this circumstance, a new version user will be added and an old user will be excluded in the analytical data.
+
+Q: How long should I wait to see the data after integrate the SDK?
+
+If you have integrated SDK and start it with well connection to the internet, you can see the data reports after around 30 minutes in our backstage.
+
+Q: What are retained users and retention rate?
+
+Retained users are users who restart the app in the next time period. Retention rate is the ratio between the number of retained users and new users in the previous time period. 
+
+Q:How are sessions counted?
+
+If the app pauses or moves to the background for more than 10 seconds, the next time the app runs, Flurry agent will automatically create a new session and end the previous session. Otherwise, It will continue the same session.  If the app is terminated, a new session will be created when the app runs again.
+
 **Technical Support**
 -------------------------------------------------
 
