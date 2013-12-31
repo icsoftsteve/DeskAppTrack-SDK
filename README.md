@@ -13,9 +13,6 @@ Requirement
 * Mac OS X 10.6 or above.
 * Xcode 4.4 or above.
 
-There's no known reason it wouldn't work on earlier iOS versions, but it has not
-been tested.
-
 Introduction
 -----------------------------------------------------
 
