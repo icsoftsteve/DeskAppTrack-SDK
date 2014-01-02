@@ -65,7 +65,7 @@ You should add these frameworks to your product:
 4.`TARGETS->Build Phases->Link Binary With Libraries>+>systemconfiguration.framework`
 
     
-** Add Code**
+**Add Code**
 
 `Open *AppDelegate.m`
     
