@@ -5,8 +5,7 @@ Introduction
 DeskAppTrack is a platform of the desktop application
 analytics service [Deskapptrack][dm]. Enables you to track the user behavior,
 and show the analytics information on Deskapptrack portal, help you learn how,
-when, where and by what kind of audience your application is used. It's
-designed to be easy to setup complete .
+when, where and by what kind of audience your application is used.
 
 Requirement
 ------------
