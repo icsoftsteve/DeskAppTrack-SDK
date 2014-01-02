@@ -1,6 +1,7 @@
 DeskAppTrack
 ================
-
+Introduction
+------------
 DeskAppTrack is a platform of the desktop application
 analytics service [Deskapptrack][dm]. Enables you to track the user behavior,
 and show the analytics information on Deskapptrack portal, help you learn how,
@@ -10,15 +11,13 @@ designed to be easy to setup complete .
 Requirement
 ------------
 
-* Mac OS X 10.6 or above.
-* Xcode 4.4 or above.
+* Mac OS X 10.7 or above.
+* Xcode 4.6 or above.
 
-Introduction
+Quickstart
 -----------------------------------------------------
 
-The Deskapptrack Analytics Service enables you to track the user behavior,
-and show the analytics information on Deskapptrack portal, help you learn how,
-when, where and by what kind of audience your application is used. It's
+The SDK enables you to track software and user behavior. It's
 designed to be easy to setup complete .
 
 The downloaded archive should include the following files:
@@ -55,7 +54,7 @@ Right click on your project directory structure, **Add->Existing Files…**, and
 select both files or drag these two files into the Xcode project directory
 structure. In the pop-up dialogue window, check **copy items into destination group's folder(if needed)**, at the same time ensure that the target's **add To Targets** is selected.
     
-**config project**
+**Config Project**
     
 Add Dependent Framework and Compiler Options
     
