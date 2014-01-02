@@ -41,7 +41,7 @@ Basic features integration guide
 **Attention**
 
 Before integrating, please add a new app on our web portal and fetch the
-**AppKey** first.
+**Key** first.
     
 **Import SDK**
     
