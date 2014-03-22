@@ -60,8 +60,11 @@ Add Dependent Framework and Compiler Options
 You should add these frameworks to your product:
     
 1.`SystemConfiguration.framework, libtidy.dylib, libz.dylib.`
+
 2.`TARGETS-->Build Phases-->Link Binary With Libraries--> + -->libz.dylib`
+
 3.`TARGETS-->Build Phases-->Link Binary With Libraries--> + -->libtidy.dylib`
+
 4.`TARGETS->Build Phases->Link Binary With Libraries>+>systemconfiguration.framework`
 
     
